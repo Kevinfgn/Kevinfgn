@@ -34,8 +34,9 @@ Me encanta aprender cosas nuevas, trabajar en equipo y contribuir con soluciones
 ## 📌 Proyectos Destacados
 
 📌 Proyectos Destacados
+
 🔹 Diseño e Implementación de un ASIP para generación de gráficos y texto
-Desarrollé un procesador pipeline personalizado orientado a gráficos y manejo de texto, integrando hardware y software para optimizar procesamiento.
+Desarrollé un procesador pipeline personalizado orientado a gráficos y manejo de texto, integrando hardware y software para optimizar procesamiento, todo desarrolado en una FPGA.
 
 🔹 Implementación de un Data Warehouse
 Diseñé y ejecuté un proceso completo de Data Warehousing con extracción, transformación y carga (ETL) para optimizar consultas analíticas sobre datos transaccionales.
@@ -44,7 +45,7 @@ Diseñé y ejecuté un proceso completo de Data Warehousing con extracción, tra
 Validé el fenómeno de false sharing implementando capas de interacción entre software y hardware para mantener coherencia de caché en sistemas multiprocesador.
 
 🔹 Algoritmo distribuidor de cargas en sistema distribuido con OpenMPI
-Implementé un balanceador de carga con cifrado de datos para optimizar tiempos de respuesta en sistemas distribuidos, usando OpenMPI.
+Se diseño un driver GPIO propio y se implementé un balanceador de carga con cifrado de datos para optimizar tiempos de respuesta en sistemas distribuidos, usando OpenMPI.
 
 
 
