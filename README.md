@@ -49,8 +49,6 @@ Se diseño un driver GPIO propio y se implementé un balanceador de carga con ci
 
 
 
-
-
 ---
 
 ## 📈 Estadísticas de GitHub
@@ -59,5 +57,3 @@ Se diseño un driver GPIO propio y se implementé un balanceador de carga con ci
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinfgn&layout=compact&theme=radical)
 
 ---
-
-> “El éxito no es la clave de la felicidad. La felicidad es la clave del éxito.” – Albert Schweitzer
