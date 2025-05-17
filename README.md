@@ -33,16 +33,22 @@ Me encanta aprender cosas nuevas, trabajar en equipo y contribuir con soluciones
 
 ## 📌 Proyectos Destacados
 
-🔹 **Sistema de Inventario Universitario**  
-App para gestionar equipos de laboratorio en la universidad.
+📌 Proyectos Destacados
+🔹 Diseño e Implementación de un ASIP para generación de gráficos y texto
+Desarrollé un procesador pipeline personalizado orientado a gráficos y manejo de texto, integrando hardware y software para optimizar procesamiento.
 
-🔹 **Control de Microcontroladores con Node.js**  
-Control básico de hardware embebido usando JavaScript.
+🔹 Implementación de un Data Warehouse
+Diseñé y ejecuté un proceso completo de Data Warehousing con extracción, transformación y carga (ETL) para optimizar consultas analíticas sobre datos transaccionales.
 
-🔹 **Clon de Interfaz con React**  
-Interfaz tipo dashboard con login, vista responsiva y panel de control.
+🔹 Modelado de un sistema multiprocesador con coherencia MESI
+Validé el fenómeno de false sharing implementando capas de interacción entre software y hardware para mantener coherencia de caché en sistemas multiprocesador.
 
-*(Próximamente añadiré más repositorios públicos. ¡Mantente atento!)*
+🔹 Algoritmo distribuidor de cargas en sistema distribuido con OpenMPI
+Implementé un balanceador de carga con cifrado de datos para optimizar tiempos de respuesta en sistemas distribuidos, usando OpenMPI.
+
+
+
+
 
 ---
 
